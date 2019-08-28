@@ -7,8 +7,8 @@ Ayuda a Karel a llegar al arbol mas cercano.
 
 #Entrada
 
-!{[Entrada](entrada.png)
+![entrada](entrada.png)
 
 #Salida
 
-![enter image description here][Salida.png]
+![Salida][Salida.png]
