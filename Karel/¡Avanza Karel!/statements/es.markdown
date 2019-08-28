@@ -11,4 +11,4 @@ Ayuda a Karel a llegar al arbol mas cercano.
 
 #Salida
 
-![Salida][Salida.png]
+![Salida](Salida.png)
